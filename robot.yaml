@@ -1,5 +1,5 @@
 tasks:
-  Run all tasks:
+  Certification_2_Run:
     shell: python -m robot --report NONE --outputdir output --logtitle "Task log" tasks.robot
 
 condaConfigFile: conda.yaml
